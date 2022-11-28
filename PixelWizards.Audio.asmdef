@@ -1,0 +1,16 @@
+{
+    "name": "PixelWizards.Audio",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c6e0c27fa63e524c8581bf43f0d6d94"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
